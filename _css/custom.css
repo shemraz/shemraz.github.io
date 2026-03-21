@@ -1,0 +1,13 @@
+.caption {
+  text-align: center;
+  font-size: 0.9em;
+  font-style: italic;
+  color: #9ca0b0;
+  margin: 0.5em 0 1em;
+}
+
+.im-50 {text-align: center;}
+.im-50 img {
+    padding: 0;
+    width: 50%;
+}
