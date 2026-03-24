@@ -15,7 +15,8 @@
 ================================================================== */
 
 html {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "JuliaMono", monospace;
+  font-weight: 300;
   font-size: var(--normal);
   color: var(--text-color);
 }
@@ -83,7 +84,7 @@ html {
   position: relative;
   padding-left: 12.5%;
   padding-right: 12.5%;
-  line-height: 1.35em;
+  line-height: 1.5em;
 }
 
 /* On wide screens, fix content width to a max value. */
